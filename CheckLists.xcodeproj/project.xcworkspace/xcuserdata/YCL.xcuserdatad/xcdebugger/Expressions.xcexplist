@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ChecklistViewController itemDetailViewController:didFinishAddingItem:]:ChecklistViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_items[0]">
+            </PersistentString>
+            <PersistentString
+               value = "_items.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Checklist countUncheckItems]:Checklist.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.items.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ItemDetailViewController tableView:indentationLevelForRowAtIndexPath:]:ItemDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "newIndexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CheckListItem compare:]:CheckListItem.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.dueDate compare:otherChecklistItem.dueDate]">
+            </PersistentString>
+            <PersistentString
+               value = "self.dueDate">
+            </PersistentString>
+            <PersistentString
+               value = "otherChecklistItem.dueDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AllListsViewController initWithCoder:]:AllListsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self = [super initWithCoder:aDecoder]">
+            </PersistentString>
+            <PersistentString
+               value = "((self = [super initWithCoder:aDecoder]))">
+            </PersistentString>
+            <PersistentString
+               value = "(self = [super initWithCoder:aDecoder])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
