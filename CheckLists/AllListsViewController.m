@@ -175,7 +175,6 @@
     }
     
     cell.detailTextLabel.text = result;
-    cell.detailTextLabel.textColor = cell.detailTextLabel.;
     
     cell.imageView.image = [UIImage imageNamed:checklist.iconName];
     
